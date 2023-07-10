@@ -19,5 +19,8 @@
     "mssql": "^9.1.1",
     "pg": "^8.11.1",
     "tedious": "^16.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
   }
 }
