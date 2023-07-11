@@ -5,13 +5,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon server.js",
-    "start1": "nodemon server.js"
+    "start": "nodemon server.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "0": "^0.0.0",
     "bcrypt-nodejs": "^0.0.3",
     "clarifai": "^2.9.1",
     "cors": "^2.8.5",
@@ -19,8 +19,7 @@
     "knex": "^2.4.2",
     "mssql": "^9.1.1",
     "pg": "^8.11.1",
-    "tedious": "^16.1.0",
-    "nodemon": "^3.0.1"
+    "tedious": "^16.1.0"
   },
   "devDependencies": {
     "nodemon": "^3.0.1"
